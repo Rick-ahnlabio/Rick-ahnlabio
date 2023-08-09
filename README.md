@@ -1,4 +1,4 @@
-### Hi there 👋
+![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rick-ahnlabio&show_icons=true&theme=radical)
 
 <!--
 **Rick-ahnlabio/Rick-ahnlabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
